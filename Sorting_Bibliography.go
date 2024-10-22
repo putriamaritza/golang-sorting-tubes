@@ -1,6 +1,3 @@
-// Putri Amanda Maritza (103012300129)
-// Nabila Rosdika Azhara (103012300010)
-
 package main
 
 import (
